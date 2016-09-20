@@ -51,7 +51,8 @@ for Builder, but I find its name to be very low level and communicating
 wrong message to the reader most of the time.
 
 {% highlight scala %}
-// BAD: I need a foo with specific name, but I communicate copying
+// BAD: I need a foo with specific name, but what I do is 
+        communicate copying
 val foo = foo.copy(name = "New Name")
 
 // GOOD: method name communicates intention - reader does not know 
