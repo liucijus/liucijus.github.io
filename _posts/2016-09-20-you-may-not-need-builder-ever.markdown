@@ -17,23 +17,25 @@ Foo foo = new Foo()
   .build();
 {% endhighlight %}
 
-Constructor can be used to build the same object, but parameter meanings are disguised. In this case 
-design also suffers from the same types (well, all of them are `String`s), which makes it easy to 
-accidentally put arguments in wrong order.
+Constructor can be used to build the same object, but parameter 
+meanings are disguised. In this case design also suffers from the 
+same types (well, all of them are `String`s), which makes it easy 
+to accidentally put arguments in wrong order.
 
 {% highlight java %}
 Foo foo = new Foo("abc", "Some meaningful name");
 {% endhighlight %}
 
-Some languages (eg. Scala) let us specify parameters by name. Using named parameters is a great way to 
-obsolete usage of verbose Builder pattern and retain the same level of readability.
+Some languages (eg. Scala) let us specify parameters by name. 
+Using named parameters is a great way to obsolete usage of verbose 
+Builder pattern and retain the same level of readability.
 
 {% highlight scala %}
 Foo foo = Foo(id = "abc", name = "Some meaningful name")
 {% endhighlight %}
 
-But what if only some of the parameters need to be specified while others can stay as is? Scala 
-supports default parameter values.
+But what if only some of the parameters need to be specified 
+while others can stay as is? Scala supports default parameter values.
 
 {% highlight scala %}
 class Foo(id: String, name: String = "Some meaningful name")
@@ -41,10 +43,11 @@ class Foo(id: String, name: String = "Some meaningful name")
 Foo foo = new Foo(id = "abc")
 {% endhighlight %}
 
-So if you work with modern language, consider ditching verbose Builder pattern in favour of 
-your language features. 
+So if you work with modern language, consider ditching verbose 
+Builder pattern in favour of your language features. 
 
-Scala has a useful `copy` method on case classes, but I find its name to be very low level and communicating 
+Scala has a `copy` method on case classes which can be used as replacement 
+for Builder, but I find its name to be very low level and communicating 
 wrong message to the reader most of the time.
 
 {% highlight scala %}
