@@ -11,7 +11,7 @@ One of the greatest advatages of using
 to methods in languages without named parameters support. Here's builder example in Java.
 
 {% highlight java %}
-Foo foo = new Foo()
+Foo foo = new FooBuilder()
   .withId("abc")
   .withName("Some meaningful name")
   .build();
