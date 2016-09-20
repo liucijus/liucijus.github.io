@@ -51,6 +51,7 @@ wrong message to the reader most of the time.
 // BAD: I need a foo with specific name, but I communicate copying
 val foo = foo.copy(name = "New Name")
 
-// GOOD: method name communicates intention - reader does not know how object is constructed
+// GOOD: method name communicates intention - reader does not know 
+//       how object is constructed
 val foo = aFooWith(name = "New Name")
 {% endhighlight %}
