@@ -4,7 +4,6 @@ title:  "You May Not Need Builders Ever"
 date:   2016-09-20 13:59:50 +0300
 categories: design
 author: Vaidas Pilkauskas
-foo: FooBar
 ---
 One of the greatest advatages of using 
 [Builder pattern](http://www.javaworld.com/article/2074938/core-java/too-many-parameters-in-java-methods-part-3-builder-pattern.html) is giving names 
