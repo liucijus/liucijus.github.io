@@ -37,6 +37,7 @@ experienced programmers.
 Overview of Java 8 Time API. Trying to answer why time are API are complex and hard to get right.
 
 # Workshops
+
 #### Web Security: Authentication
 **Level: Beginner/Advanced**.
 Workshop covers cookie hashing, secure password storage and many more.
