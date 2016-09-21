@@ -30,7 +30,7 @@ Using named parameters is a great way to obsolete usage of verbose
 Builder pattern and retain the same level of readability.
 
 {% highlight scala %}
-Foo foo = Foo(id = "abc", name = "Some meaningful name")
+val foo = Foo(id = "abc", name = "Some meaningful name")
 {% endhighlight %}
 
 But what if only some of the parameters need to be specified 
@@ -39,7 +39,7 @@ while others can stay as is? Scala supports default parameter values.
 {% highlight scala %}
 class Foo(id: String, name: String = "Some meaningful name")
 
-Foo foo = new Foo(id = "abc")
+val foo = new Foo(id = "abc")
 {% endhighlight %}
 
 So if you work with modern language, consider ditching verbose 
