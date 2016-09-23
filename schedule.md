@@ -11,12 +11,12 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
  * Oct 21 - Testcon Vilnius: Can You Trust Your Tests?
  * Oct 13 - Agile Tour Kaunas: TDD: Discover Implementation by Stepping Small
- * Sep 22 - Agile Tour Vilnius: TDD: Discover Implementation by Stepping Small
 
 ### Past
 
 2016
 
+ * Sep 22 - Agile Tour Vilnius: TDD: Discover Implementation by Stepping Small
  * Sep 6 - LatCraft: Can You Trust Your Tests?
  * Jul 26 - Vilnius Girls Code: Web Development & Security Workshop
  * May 31 - Wix Tech Talks Tel Aviv: TDD: Discover Implementation by Stepping Small
