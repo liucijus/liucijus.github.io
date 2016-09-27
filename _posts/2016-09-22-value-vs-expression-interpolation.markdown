@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Value vs. Expression interpolation"
+title:  "Value vs. Expression Interpolation"
 date:   2016-09-27 11:00:00 +0300
 categories: design
 author: Vaidas Pilkauskas
