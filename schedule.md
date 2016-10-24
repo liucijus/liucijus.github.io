@@ -9,13 +9,14 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
- * Oct 22 - Global Day of Coderetreat Kaunas
- * Oct 21 - Testcon Vilnius: Can You Trust Your Tests?
+* Nov 8 - Vilnius Girls Code: Introduction to Git Merge and Rebase
 
 ### Past
 
 2016
 
+ * Oct 22 - Global Day of Coderetreat Kaunas
+ * Oct 21 - Testcon Vilnius: Can You Trust Your Tests?
  * Oct 13 - Agile Tour Kaunas: TDD: Discover Implementation by Stepping Small
  * Sep 22 - Agile Tour Vilnius: TDD: Discover Implementation by Stepping Small
  * Sep 6 - LatCraft: Can You Trust Your Tests?
