@@ -39,3 +39,9 @@ $on-laptop:        700px;
 // Import partials from the `minima` theme.
 @import "../_sass/minima";
 
+.profile {
+  padding: 0 5px 5px 5px;
+  height: 40px;
+  border-radius: 50%;
+}
+
