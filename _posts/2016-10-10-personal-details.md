@@ -40,7 +40,7 @@ make changes to this test as part of her new task. If she wants to change it, sh
 may think, if it is allowed to change the name, does it have any meaning, is there
 a practice to name data after yourself. Would it be offensive if she deletes 
 unneeded tests with senior developer's name and then adds a new one with her name? 
-This looks like small issue - it is easy to ask that person right? But what if he 
+This looks like a small issue - it is easy to ask that person right? But what if he 
 is on month long vacation? Or maybe there's another reason why it is hard to reach
 him. Situations like this add additional load for our brains. <br/>
 **Personal details prevent us from cleaning after ourselves**. And they must be avoided.
