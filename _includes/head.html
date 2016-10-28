@@ -4,7 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description"
+        content="{{ page.excerpt | default: site.meta_description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="keywords" content="{{ site.keywords | escape }}"/>
 
   {% assign custom_url = site.url | append: site.baseurl %}
   {% assign full_base_url = custom_url | default: site.github.url %}
