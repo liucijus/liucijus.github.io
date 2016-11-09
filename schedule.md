@@ -9,12 +9,13 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
-* Nov 8 - Vilnius Girls Code: Introduction to Git Merge and Rebase
+No future plans yet :)
 
 ### Past
 
 2016
 
+ * Nov 8 - Vilnius Girls Code: Introduction to Git Merge and Rebase
  * Oct 22 - Global Day of Coderetreat Kaunas
  * Oct 21 - Testcon Vilnius: Can You Trust Your Tests?
  * Oct 13 - Agile Tour Kaunas: TDD: Discover Implementation by Stepping Small
