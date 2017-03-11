@@ -15,6 +15,19 @@ systems. This talk will look into how mutation testing can be used to
 improve your test-driven development cycle and will try to answer if 
 existing tooling is mature enough to be used while coding your daily tasks.
 
+#### Understanding Mock Libraries
+Mocking plays important role in unit testing, and is a great way to isolate
+your dependencies that your system under test depends on. Many of us do not 
+question libraries we use, what problems they solve. And some of us have strong 
+opinion on what mocking is, and what it is not. Let’s retrospect on current 
+state of popular mocking frameworks like Mockito and JMock. How are they 
+different from each other and where their weaknesses are. The second part of 
+the talk is an analysis of what it takes to write a mocking framework from 
+scratch in Java 8. This talk is aimed at a curious developer who wants to 
+understand how mocking tools work and hopefully it will hint on things where 
+such tools can be improved. Source code for the example mocking library can be 
+found here: https://github.com/liucijus/jinsist
+
 #### TDD: Discover Implementation by Stepping Small
 Enough with the theory! Let's look into how classical TDD techniques are 
 applied to discover algorithm implementations by moving forward with baby 
