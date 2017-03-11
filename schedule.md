@@ -9,7 +9,8 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
-No future plans yet :)
+ * May 15-17 - Riga Dev Days: Understanding Mock Libraries
+ * Feb 13 - Vilnius JUG: An Introduction to Mutation Testing
 
 ### Past
 
