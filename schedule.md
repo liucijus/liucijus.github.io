@@ -15,7 +15,7 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 ### Past
 
 2017
- * May 10 - Vilnius JUG: 
+ * May 10 - Vilnius JUG: Understanding Git
  * Apr 20 - Kaunas JUG: Understanding Mock Libraries
  * Mar 30 - JUG UA, Kyiv: TDD: Discover Implementation by Stepping Small
  * Feb 13 - Vilnius JUG: An Introduction to Mutation Testing
