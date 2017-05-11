@@ -3,6 +3,12 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+#### Understanding Git
+Do you want to be effective in how you use Git? So this talk is what every Git
+user needs to know and understand about the tool. We will briefly look into 
+how git tracks changes internally, how its architecture allows to add number 
+of history related workflows which are based on merging, rebasing, history 
+rewrite and what implications do they bring.
 
 #### Can You Trust Your Tests (An Introduction to Mutation Testing)
 Nobody argues these days that unit tests are useful and provide valuable 
@@ -15,7 +21,7 @@ systems. This talk will look into how mutation testing can be used to
 improve your test-driven development cycle and will try to answer if 
 existing tooling is mature enough to be used while coding your daily tasks.
 
-#### Understanding Mock Libraries
+#### Understanding Mocks
 Mocking plays important role in unit testing, and is a great way to isolate
 your dependencies that your system under test depends on. Many of us do not 
 question libraries we use, what problems they solve. And some of us have strong 
@@ -56,7 +62,3 @@ Overview of Java 8 Time API. Trying to answer why time are API are complex and h
 Workshop covers cookie hashing, secure password storage and many more.
 
 _I can run it in JavaScript, Java_
-
-#### Introduction to Git merge and rebase
-**Level: Beginner**.
-1 hour walk-trough over how and when to merge and rebase. And What are the differences between them.
