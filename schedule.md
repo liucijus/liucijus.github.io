@@ -9,12 +9,13 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
- * May 26-27 - JEEConf, Kyiv: Understanding Mocks
+Nothing planned!!!
  
 ### Past
 
 2017
 
+ * May 26-27 - JEEConf, Kyiv: Understanding Mocks
  * May 15-17 - Riga Dev Days: Understanding Mocks
  * May 10 - Vilnius JUG: Understanding Git
  * Apr 20 - Kaunas JUG: Understanding Mock Libraries
