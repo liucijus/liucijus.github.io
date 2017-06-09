@@ -15,6 +15,7 @@ Nothing planned!!!
 
 2017
 
+ * Jun 8 - Women Go Tech: World Cafe About IT
  * May 26-27 - JEEConf, Kyiv: Understanding Mocks
  * May 15-17 - Riga Dev Days: Understanding Mocks
  * May 10 - Vilnius JUG: Understanding Git
