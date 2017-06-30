@@ -22,6 +22,7 @@ Nothing planned!!!
  * Apr 20 - Kaunas JUG: Understanding Mock Libraries
  * Mar 30 - JUG UA, Kyiv: TDD: Discover Implementation by Stepping Small
  * Feb 13 - Vilnius JUG: An Introduction to Mutation Testing
+ * Feb-Jun - Women Go Tech mentor
 
 2016
 
