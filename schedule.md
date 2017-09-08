@@ -8,8 +8,8 @@ I am complete nerd, but I can't resist to speak in public.
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
-
  * Oct 12 - Agile Tour Vilnius - Comprehensible Code
+ * Oct 20 - TestCon Hackathon Judge
 
 ### Past
 
