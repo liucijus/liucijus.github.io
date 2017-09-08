@@ -4,13 +4,13 @@ title: Schedule
 permalink: /schedule/
 ---
 
-I am complete nerd, but I can't resist to speak in public. 
+I am complete nerd, but I can't resist to speak in public.
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
 
-Nothing planned!!!
- 
+ * Oct 12 - Agile Tour Vilnius - Comprehensible Code
+
 ### Past
 
 2017
@@ -58,5 +58,4 @@ Nothing planned!!!
 
 2012
 
- * Nov 14 - Vilnius JUG #9: Java 8 
-
+ * Nov 14 - Vilnius JUG #9: Java 8
