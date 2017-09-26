@@ -4,7 +4,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-I am complete nerd, but I can't resist to speak in public.
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
