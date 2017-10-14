@@ -7,13 +7,14 @@ permalink: /schedule/
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
- * Oct 12 - Agile Tour Vilnius - Comprehensible Code
+
  * Oct 20 - TestCon Hackathon Judge
 
 ### Past
 
 2017
 
+ * Oct 12 - Agile Tour Vilnius - Comprehensible Code
  * Jun 8 - Women Go Tech: World Cafe About IT
  * May 26-27 - JEEConf, Kyiv: Understanding Mocks
  * May 15-17 - Riga Dev Days: Understanding Mocks
