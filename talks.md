@@ -3,6 +3,13 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+#### Demystifying Diversity & Inclusion
+Current decade in the press is notable for diversity related scandals. Let’s 
+ask ourselves what is Diversity and Inclusion. Why is it important in a 
+professional environment? Is our company ready to accept different ideas? 
+In this talk I will look at the most common misconceptions related to D&I 
+and how lack of diversity shapes our way of working.
+
 #### Comprehensible Code
 The concept of clean code is well known by many developers. But if you ask them
 what it is, many of them mostly talk about software design. While naming and
