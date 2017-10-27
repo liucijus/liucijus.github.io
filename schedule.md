@@ -8,12 +8,13 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
- * Oct 26 - HeRoes unITed Unconference - Demystifying Diversity & Inclusion
  * Nov 8 - Latcraft, Riga - Coprehensible Code
 
 ### Past
 
 2017
+
+ * Oct 26 - HeRoes unITed Unconference - Demystifying Diversity & Inclusion
  * Oct 20 - TestCon Hackathon Judge
  * Oct 12 - Agile Tour Vilnius - Comprehensible Code
  * Jun 8 - Women Go Tech: World Cafe About IT
