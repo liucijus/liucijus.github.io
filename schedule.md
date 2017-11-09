@@ -8,12 +8,13 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
- * Nov 8 - Latcraft, Riga - Coprehensible Code
+Nothing planned!
 
 ### Past
 
 2017
 
+ * Nov 8 - Latcraft, Riga - Coprehensible Code
  * Oct 26 - HeRoes unITed Unconference - Demystifying Diversity & Inclusion
  * Oct 20 - TestCon Hackathon Judge
  * Oct 12 - Agile Tour Vilnius - Comprehensible Code
