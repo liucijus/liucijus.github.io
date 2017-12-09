@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Blog on software crafstmanship. Or just code review arguments.
 #baseurl: "" # the subpath of your site, e.g. /blog
 meta_description: Vaidas Pilkauskas Blog on Software Development and Engineering with emphasis on TDD (Test-Driven Development) and Design
-url: "http://pilkauskas.lt" # the base hostname & protocol for your site
+url: "https://pilkauskas.lt" # the base hostname & protocol for your site
 twitter_username: liucijus
 github_username: liucijus
 author: Vaidas Pilkauskas
