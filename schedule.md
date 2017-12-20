@@ -13,7 +13,7 @@ Nothing planned!
 ### Past
 
 2017
-
+ * Dec 19 - Agile Lietuva - Demystifying Diversity & Inclusion
  * Nov 8 - Latcraft, Riga - Coprehensible Code
  * Oct 26 - HeRoes unITed Unconference - Demystifying Diversity & Inclusion
  * Oct 20 - TestCon Hackathon Judge
