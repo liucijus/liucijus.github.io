@@ -8,12 +8,15 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 
 ### Upcoming
 
-Nothing planned!
+ * Feb 1 - Agile Lietuva Kaunas - Demystifying Diversity & Inclusion
 
 ### Past
 
+2018
+ * Jan 10 - Women Go Tech: panel discussion
+
 2017
- * Dec 19 - Agile Lietuva - Demystifying Diversity & Inclusion
+ * Dec 19 - Agile Lietuva Vilnius - Demystifying Diversity & Inclusion
  * Nov 8 - Latcraft, Riga - Coprehensible Code
  * Oct 26 - HeRoes unITed Unconference - Demystifying Diversity & Inclusion
  * Oct 20 - TestCon Hackathon Judge
