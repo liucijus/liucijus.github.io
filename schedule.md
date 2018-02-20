@@ -7,13 +7,13 @@ permalink: /schedule/
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
-
- * Feb 1 - Agile Lietuva Kaunas - Demystifying Diversity & Inclusion
+ * Feb 20 - Women Go Tech: World Cafe About IT
 
 ### Past
 
 2018
  * Jan 10 - Women Go Tech: panel discussion
+ * Feb 1 - Agile Lietuva Kaunas - Demystifying Diversity & Inclusion
 
 2017
  * Dec 19 - Agile Lietuva Vilnius - Demystifying Diversity & Inclusion
