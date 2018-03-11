@@ -7,11 +7,11 @@ permalink: /schedule/
 If you want me to talk at your event, do not hesitate to contact me: vaidas.pilkauskas@gmail.com.
 
 ### Upcoming
- * Mar 10 - Turing School, PUZZLE DAY - Programmer Career Keynote 
-
+ No plans!
 ### Past
 
 2018
+ * Mar 10 - Turing School, PUZZLE DAY - Programmer Career Keynote 
  * Feb 20 - Women Go Tech: World Cafe About IT
  * Jan 10 - Women Go Tech: panel discussion
  * Feb 1 - Agile Lietuva Kaunas - Demystifying Diversity & Inclusion
