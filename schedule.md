@@ -11,6 +11,7 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 ### Past
 
 2018
+ * Apr 19 - Vilnius Tech Leads - Job Interviews
  * Mar 10 - Turing School, PUZZLE DAY - Programmer Career Keynote 
  * Feb 20 - Women Go Tech: World Cafe About IT
  * Jan 10 - Women Go Tech: panel discussion
