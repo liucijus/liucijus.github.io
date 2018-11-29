@@ -11,6 +11,7 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 ### Past
 
 2018
+ * Nov 27 - Wix Tech Talks - Hiring Backend Engineers
  * May 5 - pycon.lt - Python Track Moderator
  * Apr 19 - Vilnius Tech Leads - Job Interviews
  * Mar 10 - Turing School, PUZZLE DAY - Programmer Career Keynote 
