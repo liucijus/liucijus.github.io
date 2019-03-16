@@ -33,6 +33,6 @@ comments: true
 disqus:
   shortname: pilkauskas-lt
 
-gems:
+plugins:
   - jekyll-seo-tag
 
