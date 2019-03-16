@@ -9,6 +9,9 @@ If you want me to talk at your event, do not hesitate to contact me: vaidas.pilk
 ### Upcoming
  No plans!
 ### Past
+2019
+ * Mar 2 - Global CFP Day - How to Write Good CFP
+ * Feb 21 - Vilnius Tech Leads - The Distributed One 
 
 2018
  * Nov 27 - Wix Tech Talks - Hiring Backend Engineers
